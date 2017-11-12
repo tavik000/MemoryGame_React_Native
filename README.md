@@ -27,12 +27,12 @@ Xcode 9.1
 
 ## Screenshots
 <img src="https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr00.png" width="360" height="660" />
-![scr00](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr00.png)
-![scr01](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr01.png)
-![scr02](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr02.png)
-![scr03](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr03.png)
-![scr04](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr04.png)
-![scr05](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr05.png)
+<img src="https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr01.png" width="360" height="660" />
+<img src="https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr02.png" width="360" height="660" />
+<img src="https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr03.png" width="360" height="660" />
+<img src="https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr04.png" width="360" height="660" />
+<img src="https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr05.png" width="360" height="660" />
+
 
 -----
 
