@@ -5,13 +5,26 @@ MemoryGame_React_Native
 This is a Memory Game Game App and work fine across both iOS & Android <br>
 This is a standard React Native project(`react-native init`).
 
+
+## Contents 
+- [Environment](#Environment)
+- [Author](#Author)
+- [Component](#Component)
+- [Screenshots](#Screenshots)
+- [Installation](#Installation)
+- [Notice](#Notice)
+- [Sponsorship](#Sponsorship)
+- [License](#License)
+
+
+
 ## Environment
-Webstorm 2017.2.5 <br>
-Node 8.9.0 <br>
-react-native-cli: 2.0.1 <br>
-npm 5.5.1 <br>
-watchman 4.9.0 <br>
-Xcode 9.1
+- Webstorm 2017.2.5 <br>
+- Node 8.9.0 <br>
+- react-native-cli: 2.0.1 <br>
+- npm 5.5.1 <br>
+- watchman 4.9.0 <br>
+- Xcode 9.1
 
 
 
@@ -36,9 +49,9 @@ Xcode 9.1
 
 -----
 
-## Usage
+## Installation
 
-#### Installation
+#### Command
 ```sh
 $ npm install
 
@@ -63,7 +76,7 @@ I fix the problem out and get helps from (https://github.com/zmxv/react-native-s
 -----
 
 ## Sponsorship
-Feel free to support me for no reasons via Wechat Pay or Alipay with QR code below
+Feel free to support me via Wechat Pay or Alipay with QR code below.
 
 
 
@@ -80,5 +93,30 @@ Feel free to support me for no reasons via Wechat Pay or Alipay with QR code bel
 Email:  tavik002@gmail.com
 
 -----
+## License
+MIT License
+
+Copyright (c) 2017 key
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+[⬆ Back to top](#contents)
 
 **All Copyright Reserved**
