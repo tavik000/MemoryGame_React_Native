@@ -16,9 +16,8 @@ Xcode 9.1
 
 
 ## Author
-key
-<img src="https://github.com/favicon.ico" width="48">
-
+<img src="https://github.com/favicon.ico" width="24">
+<br>key
 
 ## Component
 
@@ -29,7 +28,7 @@ key
 
 ## Screenshots
 
-![scr00](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr00.png =100x20)
+![scr00](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr00.png)
 ![scr01](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr01.png)
 ![scr02](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr02.png)
 ![scr03](https://github.com/tavik000/MemoryGame_React_Native/raw/master/Screenshots/scr03.png)
