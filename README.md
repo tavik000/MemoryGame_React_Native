@@ -7,14 +7,20 @@ This is a standard React Native project(`react-native init`).
 
 
 ## Contents 
-- [Environment](#Environment)
-- [Author](#Author)
-- [Component](#Component)
-- [Screenshots](#Screenshots)
-- [Installation](#Installation)
-- [Notice](#Notice)
-- [Sponsorship](#Sponsorship)
-- [License](#License)
+<!-- toc -->
+* [Environment](#environment)
+* [Author](#author)
+* [Component](#component)
+* [Screenshots](#screenshots)
+* [Installation](#installation)
+    * [Command](#command)
+* [Notice](#notice)
+* [Sponsorship](#sponsorship)
+* [Contact](#contact)
+* [License](#license)
+
+<!-- toc stop -->
+
 
 
 
