@@ -35,7 +35,7 @@ This is a standard React Native project(`react-native init`).
 
 
 ## Author
-<img src="https://github.com/favicon.ico" width="24">key
+<img src="https://github.com/favicon.ico" width="24">[key](https://github.com/tavik000)
 
 ## Component
 
