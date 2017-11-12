@@ -16,8 +16,7 @@ Xcode 9.1
 
 
 ## Author
-<img src="https://github.com/favicon.ico" width="24">
-key
+<img src="https://github.com/favicon.ico" width="24">key
 
 ## Component
 
